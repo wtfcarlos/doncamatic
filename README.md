@@ -7,8 +7,11 @@ This library is not actively developed anymore, and it's stored here for histori
 
 ## Features
 * Game loop (update / draw)
+* Primitive block rendering
+* Render rotation
+* Director / scene support
 * Sprite Rendering
-* Spritesheet rendering
+* Spritesheet animation rendering
 * Gameobjects
 * Component objects
 * Basic collision detection
