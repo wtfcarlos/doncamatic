@@ -16,5 +16,5 @@ This library is not actively developed anymore, and it's stored here for histori
 * Component objects
 * Basic collision detection
 * Game-loop based keyboard, mouse, and touch input handling
-* High level API for drawing to a canvas context.
-* Various utility components, such as buttons, faders, and translators.
+* High level API for drawing to a canvas context
+* Various utility components, such as buttons, faders, and translators
